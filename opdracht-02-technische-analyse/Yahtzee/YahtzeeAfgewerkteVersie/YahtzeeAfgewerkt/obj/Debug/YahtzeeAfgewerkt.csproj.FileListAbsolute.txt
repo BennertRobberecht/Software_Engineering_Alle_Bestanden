@@ -1,0 +1,23 @@
+c:\users\jeff monballiu\documents\visual studio 2015\Projects\YahtzeeAfgewerkt\YahtzeeAfgewerkt\bin\Debug\YahtzeeAfgewerkt.exe.config
+c:\users\jeff monballiu\documents\visual studio 2015\Projects\YahtzeeAfgewerkt\YahtzeeAfgewerkt\bin\Debug\YahtzeeAfgewerkt.exe
+c:\users\jeff monballiu\documents\visual studio 2015\Projects\YahtzeeAfgewerkt\YahtzeeAfgewerkt\bin\Debug\YahtzeeAfgewerkt.pdb
+c:\users\jeff monballiu\documents\visual studio 2015\Projects\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\YahtzeeAfgewerkt.csprojResolveAssemblyReference.cache
+c:\users\jeff monballiu\documents\visual studio 2015\Projects\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\YahtzeeAfgewerkt.Properties.Resources.resources
+c:\users\jeff monballiu\documents\visual studio 2015\Projects\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\YahtzeeAfgewerkt.csproj.GenerateResource.Cache
+c:\users\jeff monballiu\documents\visual studio 2015\Projects\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\YahtzeeAfgewerkt.exe
+c:\users\jeff monballiu\documents\visual studio 2015\Projects\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\YahtzeeAfgewerkt.pdb
+C:\Users\Bennert\Documents\Software engineering\YahtzeeAfgewerkt\YahtzeeAfgewerkt\YahtzeeAfgewerkt\bin\Debug\YahtzeeAfgewerkt.exe.config
+C:\Users\Bennert\Documents\Software engineering\YahtzeeAfgewerkt\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\YahtzeeAfgewerkt.exe
+C:\Users\Bennert\Documents\Software engineering\YahtzeeAfgewerkt\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\YahtzeeAfgewerkt.pdb
+C:\Users\Bennert\Documents\Software engineering\YahtzeeAfgewerkt\YahtzeeAfgewerkt\YahtzeeAfgewerkt\bin\Debug\YahtzeeAfgewerkt.exe
+C:\Users\Bennert\Documents\Software engineering\YahtzeeAfgewerkt\YahtzeeAfgewerkt\YahtzeeAfgewerkt\bin\Debug\YahtzeeAfgewerkt.pdb
+C:\Users\Bennert\Documents\Software engineering\YahtzeeAfgewerkt\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\YahtzeeAfgewerkt.csprojResolveAssemblyReference.cache
+C:\Users\Bennert\Documents\Software engineering\YahtzeeAfgewerkt\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\Yahtzee.GameView.resources
+C:\Users\Bennert\Documents\Software engineering\YahtzeeAfgewerkt\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\Yahtzee.YahtzeeView.resources
+C:\Users\Bennert\Documents\Software engineering\YahtzeeAfgewerkt\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\YahtzeeAfgewerkt.Properties.Resources.resources
+C:\Users\Bennert\Documents\Software engineering\YahtzeeAfgewerkt\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\Yahtzee.ScoreView.resources
+C:\Users\Bennert\Documents\Software engineering\YahtzeeAfgewerkt\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\Yahtzee.TeerlingView.resources
+C:\Users\Bennert\Documents\Software engineering\YahtzeeAfgewerkt\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\YahtzeeAfgewerkt.csproj.GenerateResource.Cache
+C:\Users\Bennert\Documents\Software engineering\YahtzeeAfgewerkt\YahtzeeAfgewerkt\bin\Debug\YahtzeeAfgewerkt.exe.config
+C:\Users\Bennert\Documents\Software engineering\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\YahtzeeAfgewerkt.exe
+C:\Users\Bennert\Documents\Software engineering\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\YahtzeeAfgewerkt.pdb
